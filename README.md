@@ -1,94 +1,112 @@
-<h2 align="center">Hi there, I'm Samy Aglan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"></h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Samy+Aglan;Front-End+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h2 align="center" style="font-size: 28px;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJkbHIweGdscXFmYW1hdDQyM3NwN3U1dHg0ZWpyYmEzcDJ0anQ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="90">
-  <b>About Me</b>
-</h2>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+  Passionate Front-End Developer from Egypt
+</h3>
 
-<div>
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-
-<p align="left">
-  <br>
-  🔭 <strong>Currently Working As:</strong> Front-End Developer<br>
-  🌱 <strong>Currently Learning:</strong> React.js | Next.js<br>
-  💬 <strong>Ask Me About:</strong> HTML, CSS, JavaScript, React, UI/UX<br>
-  ⚡ <strong>About Me:</strong> "Front-end developer passionate about turning ideas into exceptional digital experiences"<br>
-  🌎 <strong>Languages:</strong> Arabic, English<br>
-  📍 <strong>Location:</strong> Egypt<br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=SAMYAGLAN&style=for-the-badge&label=Profile+Views">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a434d2d477a6a4d546b396e5a6d3979526b4e32556855534e5858344e446b2d59584e6c63356c4d4d6d457a6a4e7a67304d6a41794e5459324f545a684d533d3d2d3266653661326465626437636139612e676966" width="300">
 </div>
 
 <hr>
 
-<h2 align="center" style="font-size: 28px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
-  <b>Technical Skills</b>
+<h2 align="center" style="color: #22D3EE; font-size: 28px;">
+  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="40"> 
+  About Me
 </h2>
 
-**Programming Languages**
-<table>
-    <tr>
-        <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
-        <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
-        <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
-        <td><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"></td>
-    </tr>
-</table>
-
-**Frameworks & Libraries**
-<table>
-    <tr>
-        <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
-        <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
-        <td><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></td>
-    </tr>
-</table>
-
-**Development Tools**
-<table>
-    <tr>
-        <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></td>
-        <td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
-        <td><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
-    </tr>
-</table>
+<div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMYAGLAN&layout=compact&theme=react&border_radius=10&hide_border=true" width="40%">
+  
+  <p align="left">
+    ✨ Creating awesome web experiences since 2020<br><br>
+    💻 Specialized in React & Next.js development<br><br>
+    🎨 UI/UX enthusiast with an eye for design<br><br>
+    🌱 Currently mastering advanced JavaScript concepts<br><br>
+    🚀 Open to collaborating on interesting projects<br><br>
+    ☕ Coffee + Code = Perfect Day
+  </p>
+</div>
 
 <hr>
 
-<h2 align="center" style="font-size: 28px;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-  <b>GitHub Stats</b>
+<h2 align="center" style="color: #22D3EE; font-size: 28px;">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  Tech Stack
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMYAGLAN&show_icons=true&theme=algolia">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMYAGLAN&theme=algolia">
-</p>
+<div align="center">
+  
+  ### 🛠 Languages
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python">
+  </div>
+  
+  ### 📚 Frameworks & Libraries
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.js" alt="Next.js">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS">
+  </div>
+  
+  ### 🧰 Tools
+  <div>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub">
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VS Code" alt="VS Code">
+  </div>
+</div>
 
 <hr>
 
-<h2 align="center" style="font-size: 28px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/3179/3179068.png" width="30">
-  <b>Contact Me</b>
+<h2 align="center" style="color: #22D3EE; font-size: 28px;">
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> 
+  GitHub Stats
 </h2>
 
-<p align="center">
-  <a href="https://www.instagram.com/samyaglan88/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/samy.aglan.610819" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMYAGLAN&show_icons=true&theme=react&border_radius=10&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMYAGLAN&theme=react&border_radius=10&hide_border=true" width="48%">
+</div>
+
+<hr>
+
+<h2 align="center" style="color: #22D3EE; font-size: 28px;">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> 
+  Let's Connect
+</h2>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/samy-aglan-677335255" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/SAMYAglan2" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://www.instagram.com/samyaglan88/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/samy.aglan.610819" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://wa.me/201060945097" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAMYAGLAN&style=flat-square&color=22D3EE" alt="Profile Views">
+</div>
+
+<div align="center">
+  <img src="https://github.com/SAMYAGLAN/SAMYAGLAN/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</div>
