@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-  Passionate Front-End Developer from Egypt
+   Front-End Developer from Egypt
 </h3>
 
 <div align="center">
